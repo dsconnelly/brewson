@@ -1,6 +1,6 @@
 # brewson
 
-`brewson` is a set of notebooks wherein I use ERA5 data to compute and analyze the Brewer-Dobson circulation (the residual overturning circulation in the stratosphere). The code was written to be run on the UCAR supercomputer Casper.
+In this set of notebooks, I use ERA5 data to compute and analyze the Brewer-Dobson circulation (the residual overturning circulation in the stratosphere). The code was written to be run on the UCAR supercomputer Casper.
 
 The notebooks are
 - `process.ipynb`, where I read in the full ERA5 dataset and compute the components of the Brewer-Dobson circulation, along with a few other useful diagnostics like the Eliassen-Palm flux divergence
